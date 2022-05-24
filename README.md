@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @johnnydepaula <img src="https://img.icons8.com/color/48/000000/instagram-verification-badge.png" height="15" width="15"/>
+## 👋 Hi, I’m @johnnydias <img src="https://img.icons8.com/color/48/000000/instagram-verification-badge.png" height="15" width="15"/>
 - 👀 I’m interested in <mark style="background-color: lightblue">cars</mark>, sports, engineering and data
 - 🌱 I’m currently learning Data Science and Machine Learning, focused on it's use uppon Natural Processing Languages
 - 💞️ I’m looking to collaborate on:
